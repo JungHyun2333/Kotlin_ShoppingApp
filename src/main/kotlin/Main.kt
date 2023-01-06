@@ -21,6 +21,6 @@ fun main(args: Array<String>) {
         // TODO 1. 장바구니 이동
     }else{
         // TODO 2. 카테고리 상품 목록 보여주기
-        // TODO 3. 카테고리 목록에 없는 값을 입력하는 경우
+        // TODO 3. 카테고리 목록에 없는 값을 입력하는 경우1
     }
 }
